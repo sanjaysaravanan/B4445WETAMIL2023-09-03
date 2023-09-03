@@ -1,0 +1,24 @@
+
+Topics:
+
+  FE Authorization:  
+
+    JWT -> Json Web Token
+
+  Midllewares:
+
+    an interface/intermediate function execution is called as a middleware
+    Custom Middlellewares
+
+      Eg: Application Logs
+          Token Authentication/Validation
+
+    
+  BE Normal API Auth:
+
+    authenticate/secure BE APIs using the auth-token except for the public apis
+
+
+  Simultaneous FE & BE:
+    complete the end-to-end flow with the authentication
+
